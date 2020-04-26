@@ -18,5 +18,10 @@ public class Demo1 {
 	public void add2() {
 		System.out.println("Addition");
 	}
+	
+	@Test
+	public void add3() {
+		System.out.println("Addition");
+	}
 
 }
